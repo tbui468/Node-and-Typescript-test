@@ -1,0 +1,10 @@
+One week on typescript and node.js (this is the foundation, so extra time spent here is okay too!)
+one week on express.js using typescript
+one week on mongoDB
+one week on React (again)
+
+RisingStack Node Hero tutorial 
+   yesterday: config Typescript and Node.  Modules (including @types namespace).  import/export functions.  compile from command line
+
+   part 3: Async in Node.js
+   part 4: 
