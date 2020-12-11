@@ -1,0 +1,69 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts": {
+        "version": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "signature": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "affectsGlobalScope": false
+      },
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "69f0c334b0ee4235f6219b22f42e4fa04b414535c782b4dda793ed1918cc835c",
+        "signature": "69f0c334b0ee4235f6219b22f42e4fa04b414535c782b4dda793ed1918cc835c",
+        "affectsGlobalScope": true
+      },
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "signature": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "affectsGlobalScope": true
+      },
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../src/app.ts": {
+        "version": "249c28550c585c1bb8354890f4dc3f8c29d8ef6893fbbc59af353b81b972a63f",
+        "signature": "76aebc9f60c415d12de8a6724173a8895383b400441b5ce87914e33493ce4846",
+        "affectsGlobalScope": false
+      },
+      "../src/index.ts": {
+        "version": "3f2210e111b1fcb34b1dbf8a340102f0b57ccc6e37f5832882b296d2ab921347",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 1,
+      "module": 1,
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./",
+      "project": "..",
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../src/index.ts": [
+        "../src/app.ts"
+      ]
+    },
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "../src/app.ts",
+      "../src/index.ts",
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts",
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../users/thomas/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts"
+    ]
+  },
+  "version": "4.1.2"
+}
